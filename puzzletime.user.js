@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Accountinfo extractor
-// @namespace    https://gist.github.com/kronn
+// @namespace    https://github.com/kronn/userscripts/blob/master/puzzletime.user.js
 // @version      1.1
 // @description  Display the Account-ID and it's billable status
 // @author       Matthias Viehweger
