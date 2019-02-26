@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Accountinfo extractor
-// @namespace    https://github.com/kronn/userscripts/blob/master/puzzletime.user.js
-// @version      1.1
+// @namespace    https://gist.github.com/kronn
+// @version      1.3
 // @description  Display the Account-ID and it's billable status
 // @author       Matthias Viehweger
 // @match        https://time.puzzle.ch/ordertimes/new*
+// @match        https://time.puzzle.ch/ordertimes/*/edit
 // @grant        none
 // ==/UserScript==
 
